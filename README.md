@@ -1,2 +1,2 @@
-# pysilicon
+# edapy
 Python scripts for EDA
